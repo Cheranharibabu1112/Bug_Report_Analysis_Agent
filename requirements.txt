@@ -1,0 +1,10 @@
+gradio>=4.0.0
+pandas>=2.0.0
+transformers>=4.36.0
+sentence-transformers>=2.2.2
+langchain>=0.1.0
+faiss-cpu>=1.7.4
+nltk>=3.8.1
+fuzzywuzzy
+python-Levenshtein
+rouge-score
